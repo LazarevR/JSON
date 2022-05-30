@@ -39,7 +39,14 @@ Group_30 Homework
 	git add new.json
 	git commit -m "edit the new.json file"
 	git push
-	```	
+	```
+	Или
+	```
+	git checkout main
+	git add new.json
+	git commit -m "edit the new.json file"
+	git push
+	```
 9. Создать файл preferences.json
 
 	`touch preferences.json`
