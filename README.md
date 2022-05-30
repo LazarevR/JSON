@@ -12,9 +12,10 @@ Group_30 Homework
 	`git clone git@github.com:LazarevR/JSON.git`
 
 3. Внутри локального JSON создать файл “new.json”.
-
-	`touch new.json`
-
+	```
+	cd json
+	touch new.json
+	```
 4. Добавить файл под гит.
 	```
 	git add new.json
