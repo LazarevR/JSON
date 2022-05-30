@@ -5,7 +5,7 @@ Group_30 Homework
 
 1. Создать внешний репозиторий c названием JSON.
 
-	`Repositories -> New -> "Repository name": Json -> Create perository`
+	`Repositories -> New -> "Repository name": Json -> Create repository`
 
 2. Клонировать репозиторий JSON на локальный компьютер.
 
@@ -77,7 +77,7 @@ Group_30 Homework
 	```
 	Блок "Commit new file"
 	В поле заголовка: create bug_report.json
-	В поле описания: create my first but_repots.json
+	В поле описания: create my first bug_report.json
 	Нажать на кнопку "Commit changes"
 	```
 15. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON.
@@ -88,7 +88,7 @@ Group_30 Homework
 16. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
 	```
 	Блок "Commit changes"
-	В поле заголовка: можно оставить пустым, а можно указать Update but_report.json
+	В поле заголовка: можно оставить пустым, а можно указать Update bug_report.json
 	В поле описания: "added first bug report"
 	Нажать на кнопку "Commit changes"
 	```
