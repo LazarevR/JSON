@@ -1,6 +1,12 @@
-{ 
-  "ФИО":"Ruslan Lazarev",
-  "Возраст":"31",
-  "Количество домашних животных":"0",
-  "Будущая желаемая зарплата":"$4000" 
-}
+  {
+    "data" : {
+      "Name" : "Ruslan",
+      "Surname" : "Lazarev",
+      "Patronymic" : null,
+      "Age" : "31"
+    },
+    "addition" : {
+    "Pets" : "0",
+    "Salary" : "$3000"
+    }
+  }
