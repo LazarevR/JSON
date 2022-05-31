@@ -1,8 +1,6 @@
 # JSON
 Group_30 Homework
 
-**JSON**
-
 1. Создать внешний репозиторий c названием JSON.
 
 	`Repositories -> New -> "Repository name": Json -> Create repository`
@@ -61,7 +59,34 @@ Group_30 Homework
 
 	Файл редактировал в Sublime Text:
 	```
-	[{ "Skills":["Git bash/Terminal", "Git", "Postman", "Charles Proxy", "JavaScript", "SQL", "Selenium+Python"] }]
+	{ 
+	  "Skills":
+	  [ 
+	    "Базовая теория SDLC, STLC",
+	    "Клиент-серверная архитектура",
+	    "HTTP методы запросов на сервер",
+	    "Коды ответов HTTP сервера",
+	    "Структуры HTTP запросов и ответов",
+	    "JSON",
+	    "XML",
+	    "Postman: тестирование API",
+	    "Снятие и чтение логов c внешнего сервера",
+	    "Charles и Fidler: сниффинг http web трафика, перехват мобильного трафика",
+	    "Dev Tools веб браузеров",
+	    "VPN",
+	    "Мобильное тестирование",
+	    "Особенность iOS, Android, гайдлайны",
+	    "Android Studio: сборка android приложений",
+	    "ADB (управление андройд девайсами)",
+	    "Настройка прокси и vpn на iOS и Android",
+	    "Linux Terminal",
+	    "Основы bash скриптинг",
+	    "Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)",
+	    "База данных Postgres",
+	    "Нереляционная база данных Redis",
+	    "Нагрузочное тестирование в Jmeter"
+	  ] 
+	}
 	```
 12. Отправить сразу 2 файла на внешний репозиторий.
 	```
