@@ -1,9 +1,9 @@
 {
    "favorites": {
-      "Movie": "Вечное сияние чистого разума",
-      "TvSeries": ["Californication", "Friends"],
-      "Food": "Солянка",
-      "Season": "Весна"
+      "Movie": "Eternal Sunshine of the Spotless Mind",
+      "TvShow": ["Doctor Who", "Friends"],
+      "Food": "Spicy",
+      "Season": "Spring"
    },
-   "countriesToVisit": ["Норвегия", "Финляндия"]
+   "countriesToVisit": ["Norway", "Finland"]
 }

@@ -34,7 +34,7 @@ Group_30 Homework
 	      "Name" : "Ruslan",
 	      "Surname" : "Lazarev",
 	      "Patronymic" : null,
-	      "Age" : "31"
+	      "Age" : "33"
 	    },
 	    "addition" : {
 	    "Pets" : "0",
@@ -64,12 +64,12 @@ Group_30 Homework
 	```
 	{
 	   "favorites": {
-	      "Movie": "Вечное сияние чистого разума",
-	      "TvSeries": ["Californication", "Friends"],
-	      "Food": "Солянка",
-	      "Season": "Весна"
+	      "Movie": "Eternal Sunshine of the Spotless Mind",
+	      "TvShow": ["Doctor Who", "Friends"],
+	      "Food": "Spicy",
+	      "Season": "Spring"
 	   },
-	   "countriesToVisit": ["Норвегия", "Финляндия"]
+	   "countriesToVisit": ["Norway", "Finland"]
 	}
 	```
 11. Создать файл sklls.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON.
